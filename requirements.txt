@@ -7,3 +7,4 @@ imageio
 scikit-learn
 tqdm
 matplotlib
+einops
